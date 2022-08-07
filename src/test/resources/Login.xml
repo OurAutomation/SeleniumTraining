@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Regression Suite" parallel="classes">
+    <listeners>
+        <listener class-name="com.opencart.listeners.ReportGenerator"></listener>
+        <listener class-name="com.opencart.listeners.AnnotationTransformer"></listener>
+    </listeners>
+    <!--<groups>
+        <run>
+            <exclude name="regression"/>
+        </run>
+    </groups>-->
+    <test name="Application sanity">
+        <parameter name="browser" value="chrome"></parameter>
+        <classes>
+            <class name="com.opencart.application.Application_Sanity"/>
+        </classes>
+    </test> <!-- Test -->
+
+    <test name="Login sanity">
+        <parameter name="browser" value="edge"></parameter>
+        <classes>
+            <class name="com.opencart.login.Login_Sanity"/>
+        </classes>
+
+    </test> <!-- Test -->
+</suite> <!-- Suite -->

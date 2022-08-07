@@ -1,0 +1,77 @@
+924  [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Sravan\AppData\Local\JetBrains\IdeaIC2021.3\temp-testng-customsuite.xml
+
+1068 [main] WARN  org.testng.internal.Utils - The test method 'io.cucumber.testng.AbstractTestNGCucumberTests.runScenario' will be skipped since its data provider 'scenarios' returned an empty array or iterator. 
+1797 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Sravan\AppData\Local\JetBrains\IdeaIC2021.3\temp-testng-customsuite.xml
+
+2045 [main] WARN  org.testng.internal.Utils - The test method 'io.cucumber.testng.AbstractTestNGCucumberTests.runScenario' will be skipped since its data provider 'scenarios' returned an empty array or iterator. 
+1245 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Sravan\AppData\Local\JetBrains\IdeaIC2021.3\temp-testng-customsuite.xml
+
+1505 [main] WARN  org.testng.internal.Utils - The test method 'io.cucumber.testng.AbstractTestNGCucumberTests.runScenario' will be skipped since its data provider 'scenarios' returned an empty array or iterator. 
+861  [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Sravan\AppData\Local\JetBrains\IdeaIC2021.3\temp-testng-customsuite.xml
+
+988  [main] WARN  org.testng.internal.Utils - The test method 'io.cucumber.testng.AbstractTestNGCucumberTests.runScenario' will be skipped since its data provider 'scenarios' returned an empty array or iterator. 
+843  [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Sravan\AppData\Local\JetBrains\IdeaIC2021.3\temp-testng-customsuite.xml
+
+959  [main] WARN  org.testng.internal.Utils - The test method 'io.cucumber.testng.AbstractTestNGCucumberTests.runScenario' will be skipped since its data provider 'scenarios' returned an empty array or iterator. 
+807  [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Sravan\AppData\Local\JetBrains\IdeaIC2021.3\temp-testng-customsuite.xml
+
+1078 [main] WARN  org.testng.internal.Utils - The test method 'io.cucumber.testng.AbstractTestNGCucumberTests.runScenario' will be skipped since its data provider 'scenarios' returned an empty array or iterator. 
+857  [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Sravan\AppData\Local\JetBrains\IdeaIC2021.3\temp-testng-customsuite.xml
+
+1316 [main] WARN  org.testng.internal.Utils - The test method 'io.cucumber.testng.AbstractTestNGCucumberTests.runScenario' will be skipped since its data provider 'scenarios' returned an empty array or iterator. 
+794  [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Sravan\AppData\Local\JetBrains\IdeaIC2021.3\temp-testng-customsuite.xml
+
+1022 [main] WARN  org.testng.internal.Utils - The test method 'io.cucumber.testng.AbstractTestNGCucumberTests.runScenario' will be skipped since its data provider 'scenarios' returned an empty array or iterator. 
+1442 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Sravan\AppData\Local\JetBrains\IdeaIC2021.3\temp-testng-customsuite.xml
+
+1904 [main] WARN  org.testng.internal.Utils - The test method 'io.cucumber.testng.AbstractTestNGCucumberTests.runScenario' will be skipped since its data provider 'scenarios' returned an empty array or iterator. 
+803  [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Sravan\AppData\Local\JetBrains\IdeaIC2021.3\temp-testng-customsuite.xml
+
+1156 [main] WARN  org.testng.internal.Utils - The test method 'io.cucumber.testng.AbstractTestNGCucumberTests.runScenario' will be skipped since its data provider 'scenarios' returned an empty array or iterator. 
+1387 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Sravan\AppData\Local\JetBrains\IdeaIC2021.3\temp-testng-customsuite.xml
+
+1854 [main] WARN  org.testng.internal.Utils - The test method 'io.cucumber.testng.AbstractTestNGCucumberTests.runScenario' will be skipped since its data provider 'scenarios' returned an empty array or iterator. 
+1018 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Sravan\AppData\Local\JetBrains\IdeaIC2021.3\temp-testng-customsuite.xml
+
+1520 [main] WARN  org.testng.internal.Utils - The test method 'io.cucumber.testng.AbstractTestNGCucumberTests.runScenario' will be skipped since its data provider 'scenarios' returned an empty array or iterator. 
+997  [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Sravan\AppData\Local\JetBrains\IdeaIC2021.3\temp-testng-customsuite.xml
+
+1384 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Sravan\AppData\Local\JetBrains\IdeaIC2021.3\temp-testng-customsuite.xml
+
+865  [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Sravan\AppData\Local\JetBrains\IdeaIC2021.3\temp-testng-customsuite.xml
+
+1722 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Sravan\AppData\Local\JetBrains\IdeaIC2021.3\temp-testng-customsuite.xml
+
+797  [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Sravan\AppData\Local\JetBrains\IdeaIC2021.3\temp-testng-customsuite.xml
+
+1902 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Sravan\AppData\Local\JetBrains\IdeaIC2021.3\temp-testng-customsuite.xml
+
+897  [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Sravan\AppData\Local\JetBrains\IdeaIC2021.3\temp-testng-customsuite.xml
+
+817  [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Sravan\AppData\Local\JetBrains\IdeaIC2021.3\temp-testng-customsuite.xml
+
+1033 [main] WARN  org.testng.internal.Utils - The test method 'io.cucumber.testng.AbstractTestNGCucumberTests.runScenario' will be skipped since its data provider 'scenarios' returned an empty array or iterator. 
+1218 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Sravan\AppData\Local\JetBrains\IdeaIC2021.3\temp-testng-customsuite.xml
+
+1499 [main] WARN  org.testng.internal.Utils - The test method 'io.cucumber.testng.AbstractTestNGCucumberTests.runScenario' will be skipped since its data provider 'scenarios' returned an empty array or iterator. 
